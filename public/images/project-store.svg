@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="680" viewBox="0 0 840 680">
+  <rect width="840" height="680" fill="#f1e8dc"/>
+  <rect x="83" y="83" width="674" height="514" rx="12" fill="#f9f6f0"/>
+  <rect x="83" y="83" width="674" height="61" rx="12" fill="#f9f6f0"/>
+  <path d="M83 131h674v13H83z" fill="#f9f6f0"/>
+  <text x="115" y="122" fill="#3c4237" font-family="Georgia, serif" font-size="25">atelier</text>
+  <text x="508" y="119" fill="#73736b" font-family="Arial, sans-serif" font-size="11">OBJECTS</text>
+  <text x="581" y="119" fill="#73736b" font-family="Arial, sans-serif" font-size="11">OUR STORY</text>
+  <circle cx="713" cy="113" r="14" fill="#e9e3d8"/>
+  <path d="M708 110h10l-2 9h-7zM710 108a3 3 0 016 0" fill="none" stroke="#51564a" stroke-width="1.5"/>
+  <rect x="111" y="169" width="618" height="226" rx="5" fill="#e7dfd1"/>
+  <circle cx="620" cy="201" r="83" fill="#e1ceb0"/>
+  <text x="143" y="222" fill="#66695e" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">THOUGHTFULLY MADE</text>
+  <text x="143" y="266" fill="#374238" font-family="Georgia, serif" font-size="35">Objects for</text>
+  <text x="143" y="306" fill="#374238" font-family="Georgia, serif" font-size="35">everyday living.</text>
+  <rect x="143" y="331" width="107" height="36" rx="18" fill="#38483b"/>
+  <text x="164" y="354" fill="#fff" font-family="Arial, sans-serif" font-size="10">EXPLORE THE EDIT</text>
+  <rect x="469" y="234" width="86" height="133" rx="40" fill="#9c7d61"/>
+  <path d="M489 235v-16c0-22 47-22 47 0v16" fill="none" stroke="#9c7d61" stroke-width="8"/>
+  <ellipse cx="512" cy="365" rx="59" ry="9" fill="#81674e" opacity=".24"/>
+  <path d="M601 244h60v100c0 28-60 28-60 0z" fill="#faf6ea"/>
+  <path d="M601 269h60M601 287h60M601 305h60" stroke="#d8cbb6" stroke-width="3"/>
+  <rect x="111" y="419" width="189" height="132" rx="4" fill="#e7e1d6"/>
+  <rect x="326" y="419" width="189" height="132" rx="4" fill="#e6ebdf"/>
+  <rect x="540" y="419" width="189" height="132" rx="4" fill="#e7e0d4"/>
+  <path d="M171 518h67v7h-67zM181 486h47v32h-47zM190 461h29v25h-29z" fill="#a08163"/>
+  <ellipse cx="420" cy="516" rx="47" ry="18" fill="#b7a984"/>
+  <rect x="403" y="478" width="34" height="38" rx="12" fill="#f5f0e2"/>
+  <path d="M601 520h64l-12-53h-40z" fill="#bd846c"/>
+  <path d="M622 467c-20-26-8-44 4-50 13 12 14 29-4 50zM640 467c1-27 19-36 32-35 2 17-11 34-32 35z" fill="#7f916a"/>
+  <text x="111" y="574" fill="#77766e" font-family="Arial, sans-serif" font-size="10">CERAMICS</text>
+  <text x="326" y="574" fill="#77766e" font-family="Arial, sans-serif" font-size="10">LINEN &amp; TEXTILES</text>
+  <text x="540" y="574" fill="#77766e" font-family="Arial, sans-serif" font-size="10">LITTLE THINGS</text>
+</svg>

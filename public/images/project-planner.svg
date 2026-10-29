@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="680" viewBox="0 0 840 680">
+  <rect width="840" height="680" fill="#e9e9ef"/>
+  <circle cx="112" cy="121" r="75" fill="#dedeea"/>
+  <rect x="113" y="78" width="613" height="527" rx="16" fill="#fffefa"/>
+  <rect x="113" y="78" width="613" height="75" rx="16" fill="#fffefa"/>
+  <path d="M113 137h613v16H113z" fill="#fffefa"/>
+  <circle cx="150" cy="114" r="18" fill="#e9ecd9"/>
+  <path d="M144 114l5 5 9-11" fill="none" stroke="#75834f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <text x="183" y="111" fill="#343a33" font-family="Georgia, serif" font-size="23">A little more focus.</text>
+  <text x="183" y="131" fill="#898980" font-family="Arial, sans-serif" font-size="10">YOUR WEEK, MADE A LITTLE LIGHTER</text>
+  <rect x="618" y="97" width="83" height="35" rx="17" fill="#38483b"/>
+  <text x="638" y="119" fill="#fff" font-family="Arial, sans-serif" font-size="10">+ NEW TASK</text>
+  <rect x="139" y="175" width="551" height="53" rx="7" fill="#f5f5ee"/>
+  <text x="159" y="207" fill="#53584f" font-family="Arial, sans-serif" font-size="12">MONDAY, OCTOBER 12</text>
+  <text x="624" y="207" fill="#84867c" font-family="Arial, sans-serif" font-size="10">3 THINGS TO DO</text>
+  <circle cx="164" cy="269" r="9" fill="none" stroke="#a9ae9e" stroke-width="2"/>
+  <text x="188" y="274" fill="#464b43" font-family="Arial, sans-serif" font-size="13">Sketch ideas for the new homepage</text>
+  <rect x="543" y="256" width="91" height="25" rx="12" fill="#f1e8da"/>
+  <text x="565" y="273" fill="#8a765e" font-family="Arial, sans-serif" font-size="9">10:30 AM</text>
+  <path d="M153 294h510" stroke="#edede5"/>
+  <circle cx="164" cy="322" r="9" fill="#8a9b5b"/>
+  <path d="M160 322l3 3 6-7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <text x="188" y="327" fill="#97988f" font-family="Arial, sans-serif" font-size="13">Take a proper lunch break</text>
+  <rect x="543" y="309" width="91" height="25" rx="12" fill="#f1e8da"/>
+  <text x="565" y="326" fill="#8a765e" font-family="Arial, sans-serif" font-size="9">12:30 PM</text>
+  <path d="M153 347h510" stroke="#edede5"/>
+  <circle cx="164" cy="375" r="9" fill="none" stroke="#a9ae9e" stroke-width="2"/>
+  <text x="188" y="380" fill="#464b43" font-family="Arial, sans-serif" font-size="13">Read one chapter, just for fun</text>
+  <rect x="543" y="362" width="91" height="25" rx="12" fill="#e9edf0"/>
+  <text x="568" y="379" fill="#677680" font-family="Arial, sans-serif" font-size="9">ANYTIME</text>
+  <rect x="139" y="420" width="551" height="137" rx="8" fill="#eef0e5"/>
+  <text x="162" y="453" fill="#62695a" font-family="Arial, sans-serif" font-size="10" letter-spacing="1">A GENTLE REMINDER</text>
+  <text x="162" y="494" fill="#414b3c" font-family="Georgia, serif" font-size="25">Small steps still move you forward.</text>
+  <path d="M162 517h144" stroke="#9ea981" stroke-linecap="round" stroke-width="2"/>
+  <path d="M579 484c0-21 16-37 36-37 20 0 36 16 36 37 0 23-22 34-36 50-14-16-36-27-36-50z" fill="#d3ddbc"/>
+  <path d="M602 484c4 5 7 8 13 12 5-7 11-13 18-17" fill="none" stroke="#788c53" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+</svg>
